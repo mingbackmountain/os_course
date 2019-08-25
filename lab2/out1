@@ -1,0 +1,12 @@
+this line is form child with pid 0, value = 0
+this line is form child with pid 0, value = 1
+this line is form child with pid 0, value = 2
+this line is form child with pid 0, value = 3
+this line is form child with pid 0, value = 4
+ this line is from parent with pid  10034, value =  0
+ this line is from parent with pid  10034, value =  1
+ this line is from parent with pid  10034, value =  2
+ this line is from parent with pid  10034, value =  3
+ this line is from parent with pid  10034, value =  4
+parent process is done 
+child process is finished 

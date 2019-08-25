@@ -1,0 +1,10 @@
+Main program creates thread 0 
+Main program creates thread 1 
+Main program creates thread 2 
+Main program creates thread 3 
+Hello world from 0 
+Hello world from 1 
+Hello world from 2 
+Main program creates thread 4 
+Hello world from 3 
+Hello world from 4 
